@@ -25,7 +25,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **Joselson Dias** and ***Angela Bauer*
+* **Joselson Dias** and **Angela Bauer**
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
